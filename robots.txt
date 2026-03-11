@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bernardocfranco.github.io/al-folio/sitemap.xml
+Sitemap: https://bernardocfranco.github.io/sitemap.xml
